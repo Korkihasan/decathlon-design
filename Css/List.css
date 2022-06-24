@@ -1,0 +1,91 @@
+.anakutu{float: left;
+margin-left: 110px;margin-top:20px;}
+.anakutu1{float: left;
+    margin-left: 110px;
+    margin-top:20px;}
+.anakutu2{float: left;
+    margin-left: 110px;
+    margin-top:20px;}
+
+
+
+
+
+.anakutu .kutu{
+    width: 375px;
+height: 48px;
+padding:12px 20px;
+background-color:white;
+display: flex;
+position: relative;
+border: 1px #D9DDE1 solid ;
+
+
+
+
+}
+.anakutu .kutu .list{
+    padding-left:12px;}
+
+    .anakutu .kutu .list1{
+        padding-right:12px;
+        right: 0px;
+        position: absolute;
+        
+    
+    }
+    
+
+.babadiv{
+    width: 375px;
+height: 64px;
+padding:12px 20px;
+background-color:white;
+display: flex;
+border: 1px #D9DDE1 solid ;
+
+
+
+}
+
+#icon {
+background-color: gray;
+border-radius:40px;
+width: 40px;
+height: 40px;
+
+
+}
+
+
+.babadiv1{
+    width: 375px;
+height: 80px;
+padding:12px 20px;
+background-color:white;
+display: flex;
+
+border: 1px #D9DDE1 solid ;
+
+
+}
+
+#icon1 {
+background-color: gray;
+width: 52px;
+height: 52px;
+
+
+}
+.kutu1{width: 40px;
+    height: 40px;}
+
+.kutu2{padding:8px 12px ;}
+ .kutu3{padding: 16px 12px ;}
+
+.buyuk .kutu3{padding: 16px 12px ;}
+
+.buyuk .kutu4 {width: 112px;
+    height: 56px;}
+
+

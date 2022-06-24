@@ -1,0 +1,456 @@
+.col{
+    flex: none;
+    flex-grow: 0;
+
+}
+.conteiner{grid-template-rows:100px;}
+
+
+
+
+
+
+
+
+
+/*Destop*/
+
+
+
+
+.Desktopkutu1{
+    width: 373px;
+    height: 96px;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    text-transform: uppercase;
+    order: 0;
+}
+.Desktopkutu2{
+width: 236px;
+height: 64px;
+font-style: italic;
+font-weight: 700;
+font-size: 60px;
+line-height: 64px;
+text-transform: uppercase;
+order: 1;
+}
+.Desktopkutu3{
+    width: 125px;
+height: 52px;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 52px;
+order: 2;
+}
+.Desktopkutu4{
+    width: 105px;
+height: 44px;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 44px;
+order: 3;
+}
+.Desktopkutu5{
+    width: 84px;
+height: 36px;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 36px;
+order: 4;
+}
+.Desktopkutu6{
+    width: 68px;
+height: 32px;
+
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 32px;
+order: 5;
+}
+.Desktopkutu7{
+    width: 53px;
+height: 24px;
+
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+    order: 6;
+}
+.Desktopkutu9{
+    width: 143px;
+height: 24px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+    order: 7;
+}
+.Desktopkutu8{
+    width: 161px;
+height: 28px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+    order: 8;
+}
+.Desktopkutu10{
+    width: 125px;
+height: 20px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+    order: 9;
+}
+.Desktopkutu11{
+    width: 137px;
+height: 28px;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+    order: 10;
+}
+.Desktopkutu12{
+    width: 122px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    order: 11;
+}
+.Desktopkutu13{
+    width: 107px;
+height: 20px;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+    order: 12;
+}
+.Desktopkutu14{
+    width: 141px;
+height: 16px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+    order: 13;
+}
+.Desktopkutu15{
+    width: 124px;
+height: 16px;
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+    order: 14;
+}
+
+
+
+
+
+/*Tablet*/
+
+
+
+
+.Tabletkutu1{
+    width: 299px;
+    height: 76px;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 76px;
+    line-height: 76px;
+    text-transform: uppercase;
+    order: 0;
+}
+.Tabletkutu2{
+    width: 189px;
+    height: 52px;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 52px;
+text-transform: uppercase;
+order: 1;
+}
+.Tabletkutu3{
+    width: 115px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 48px;
+order: 2;
+}
+.Tabletkutu4{
+    width: 99px;
+    height: 44px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 44px;
+}
+.Tabletkutu5{
+    width: 79px;
+    height: 36px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+order: 4;
+}
+.Tabletkutu6{
+    width: 63px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+order: 5;
+}
+.Tabletkutu7{
+    width: 53px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    order: 6;
+}
+.Tabletkutu9{
+    width: 161px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    order: 7;
+}
+.Tabletkutu8{
+    width: 143px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    order: 8;
+}
+.Tabletkutu10{
+    width: 125px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    order: 9;
+}
+.Tabletkutu11{
+    width: 137px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+.Tabletkutu12{
+    width: 122px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    order: 11;
+}
+.Tabletkutu13{
+    width: 107px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    order: 12;
+}
+.Tabletkutu14{
+    width: 141px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    order: 13;
+}
+.Tabletkutu15{
+    width: 124px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    order: 14;
+}
+
+
+
+
+
+
+/*Mobil*/
+
+
+
+
+.Mobilkutu1{
+    width: 236px;
+    height: 60px;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+.Mobilkutu2{
+    width: 189px;
+    height: 52px;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 52px;
+text-transform: uppercase;
+order: 1;
+}
+.Mobilkutu3{
+    width: 105px;
+    height: 44px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+order: 2;
+}
+.Mobilkutu4{
+    width: 94px;
+    height: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    order: 3;
+}
+.Mobilkutu5{
+    width: 73px;
+    height: 32px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+order: 4;
+}
+.Mobilkutu6{
+
+    width: 63px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+order: 5;
+}
+.Mobilkutu7{
+    width: 53px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    order: 6;
+}
+.Mobilkutu9{
+    width: 161px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    order: 7;
+}
+.Mobilkutu8{
+    width: 143px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    order: 8;
+}
+.Mobilkutu10{
+    width: 125px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    order: 9;
+}
+.Mobilkutu11{
+    width: 137px;
+    height: 28px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    order:10 ;
+}
+.Mobilkutu12{
+    width: 122px;
+height: 24px;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+}
+.Mobilkutu13{
+    width: 107px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    order: 12;
+}
+.Mobilkutu14{
+    width: 107px;
+    height: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    order: 13;
+}
+.Mobilkutu15{
+    width: 124px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    order: 14;
+}

@@ -1,0 +1,30 @@
+.anakutu{display: flex;
+justify-content: center;
+align-items: center;
+background-color: aqua;
+width: 100%;
+height: 80px;}
+
+.container{display: flex;
+    justify-content: center;
+margin-top: 40vh;}
+
+
+#kutu1{
+   color: #007DBC;
+   border-bottom:2px #007DBC solid;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   width: 220px;
+    height: 60px;
+    cursor: pointer;
+}
+#kutu{
+width: 220px;
+    height: 60px;
+    cursor: pointer;
+border:none;
+}
+#kutu:hover
+{border-bottom:2px solid #007DBC !important;}

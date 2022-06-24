@@ -1,0 +1,32 @@
+
+.box1 {
+    border-radius: 4px;}
+.box2 {
+    border-radius: 8px;}
+.box3 {
+    border-radius: 12px;}
+.box4 {
+    border-radius: 16px;}
+.box5 {
+    border-radius: 20px;}
+.box6 {
+    border-radius: 24px;}
+.box7 {
+    border-radius: 32px;}
+.box8 {
+    border-radius: 48px;}
+
+.container{
+    display: grid;
+    grid-column-gap:32px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+    .col{
+        border: 1px solid #8996A2;
+        width: 117px;
+        height: 60px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    }

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="C:\Users\Hasan Korkmaz\Desktop\Grafix\Css\Tabs.css" />
+    <link rel="stylesheet" href="C:\Users\Hasan Korkmaz\Desktop\Grafix\Css\global.css" />
+
+   
+
+</head>
+<body>
+
+    
+<div class="anakutu1">
+    <h2>Tabs</h2>
+  </div>
+  
+  <div class="anakutu">
+    <button id="kutu1" class="w3-bar-item w3-button" onclick="openCity('London')"><img src="Unbenannt-1.jpg" style="width: 15px;height:15px;;">&nbsp;  Tab Name&nbsp; <img src="bir.jpg" style="width: 15px;height:15px;"></button>
+    <button id="kutu" class="w3-bar-item w3-button" onclick="openCity('Paris')"><img src="shape.svg" style="width: 15px;height:15px;;">&nbsp; Tab Name &nbsp;<img src="Badge.png" style="width: 15px;height:15px;"></button>
+    <button id="kutu" class="w3-bar-item w3-button" onclick="openCity('Tokyo')"><img src="shape.svg"style="width: 15px;height:15px;;">&nbsp; Tab Name &nbsp;<img src="Badge.png" style="width: 15px;height:15px;"></button>
+    <button id="kutu" class="w3-bar-item w3-button" onclick="openCity('Ankara')"><img src="shape.svg" style="width: 15px;height:15px;;">&nbsp; Tab Name &nbsp;<img src="Badge.png" style="width: 15px;height:15px;"></button>
+  </div>
+  
+  <script>
+  function openCity(cityName) {
+    var i;
+    var x = document.getElementsByClassName("city");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    document.getElementById(cityName).style.display = "block";  
+  }
+  </script>
+  
+
+
+    
+</body>
+</html>

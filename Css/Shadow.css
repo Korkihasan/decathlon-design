@@ -1,0 +1,45 @@
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.col {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    width: 159px;
+    height: 92px;
+    border-radius: 16px;
+gap: 21Spx;
+margin-left:120px;}
+
+.container{
+    display: flex;
+margin-top:15.5px;
+    padding: 30px;
+}
+    
+
+.shadow1{ background: #FFFFFF;
+    box-shadow: 0px 6px 6px rgb(68, 68, 67);}
+.shadow2{ background: #FFFFFF;
+    box-shadow: 0px 12px 12px rgb(68, 68, 67);}
+.shadow3{ background: #FFFFFF;
+    box-shadow: 0px 24px 24px rgb(68, 68, 67);} 
+.shadow4{ background: #FFFFFF;
+    box-shadow: 0px 48px 48px rgb(68, 68, 67);}
+                  
+    
+.kutu1{  background: #142129;
+    box-shadow: 0px 6px 6px rgb(119, 119, 119);}
+.kutu2{  background: #142129;
+    box-shadow: 0px 12px 12px rgb(119, 119, 119);}
+.kutu3{  background: #142129;
+    box-shadow: 0px 24px 24px rgb(119, 119, 119);}
+.kutu4{  background: #142129;
+    box-shadow: 0px 48px 48px rgb(119, 119, 119);}
+            

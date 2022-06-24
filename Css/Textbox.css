@@ -1,0 +1,40 @@
+#kutu2 input{width: 335px;
+    height: 48px;
+
+    background: #FFFFFF;
+    border: 1px solid #8996A2;
+    border-radius: 4px;
+    appearance: none;
+    background-image: url(../img/Date.jpg) !important;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30px;
+    
+
+}
+#kutu2 input:hover{
+    border: 3px solid blue;
+}
+
+input:focus
+{
+    border: 1px solid #1670BE;
+    box-shadow: 0 0 3px #1670BE;
+    outline-offset: 0px;
+    outline: none;
+}
+
+
+
+
+.kutu5 input{width: 335px;
+    height: 48px;
+
+    background: #FFFFFF;
+    border: 1px solid #8996A2;
+    border-radius: 4px;
+    appearance: none;
+   }
+   .kutu5 input:hover{
+    border: 3px solid green;
+}
